@@ -1,0 +1,43 @@
+.configMainDiv {
+  background-color: #D2CDC7;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+body {
+  background-color: #E8E6DF;
+}
+img {
+  width: 100%;
+}
+.configImage {
+  width: 80%;
+  margin: auto;
+}
+.pInImage {
+  margin-bottom: 0px;
+}
+.configGrid {
+  width: 60%;
+  margin: auto;
+}
+.configList {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+.subRow {
+  padding: 0;
+}
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+  width: 60%;
+  margin: auto;
+}
+h3 {
+  margin: 8px;
+}
+.parentH3 {
+  padding: 0;
+}
